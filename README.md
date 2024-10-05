@@ -67,4 +67,4 @@ Through the above document description, it is hoped that the copyright informati
 2. 贡献代码的方式可以通过 GitHub 提交 pull request。
 3. 贡献的代码必须符合项目的代码风格和 MIT 许可证的要求，并且经过开发者的审核和合并。
 
-“如有问题或需要联系作者，请通过项目的官方渠道留言，作者会在适当的时候回复。或者发送邮件至项目联系邮箱 zyr1234@qq.com，我们会尽快处理你的请求。
+“如有问题或需要联系作者，请通过项目的官方渠道留言，作者会在适当的时候回复。或者发送邮件至项目联系邮箱 zhangyangrui1234@qq.com，我们会尽快处理你的请求。
