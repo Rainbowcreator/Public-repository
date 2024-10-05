@@ -1,3 +1,13 @@
+package com.example.myproject;
+
+public class MyClass {
+    /*
+     * © Rainbowcreator, 2024-2026
+     * All rights reserved.
+     */
+    private int myVariable;
+    // 类的其他内容
+}
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
