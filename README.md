@@ -34,7 +34,7 @@ V. Contribution Code Guide
  
 Through the above document description, it is hoped that the copyright information and usage terms of these personal development projects can be clarified to ensure the legal use and orderly development of the code.
 
-“If you have any questions or need to contact the author, please leave a message through the official channels of the project. The author will reply in due course. Or send an email to project.contact.email@qq.com with an alias like zyr1234@qq.com. We will handle your request as soon as possible.”
+“If you have any questions or need to contact the author, please leave a message through the official channels of the project. The author will reply in due course. Or send an email to zhangyangrui1234@qq.com with an alias like zhangyangrui1234@qq.com. We will handle your request as soon as possible.”
 
 #《个人开发项目版权说明文档》
  
